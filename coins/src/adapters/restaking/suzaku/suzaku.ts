@@ -4,7 +4,7 @@ import { getApi } from "../../utils/sdk";
 export const config: any = {
   avax: {
     tokens: {
-      "SUZ": "0xcd94a87696FAC69Edae3a70fE5725307Ae1c43f6",
+      "SUZ": "0x451532F1C9eb7E4Dc2d493dB52b682C0Acf6F5EF",
     }
   }
 }
